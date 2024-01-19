@@ -1,8 +1,10 @@
 # IverCoder
 
-it's kubkubin' time 😈
+KATINIG! KATINIG!
 
 ## Social links
+
+Reddit: u/EthanIver
 
 Mastodon: @IverCoder@mastodon.online
 
