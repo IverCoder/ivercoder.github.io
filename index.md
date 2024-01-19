@@ -4,6 +4,8 @@ KATINIG! KATINIG!
 
 ## Social links
 
+Lemmy: @IverCoder@lemm.ee
+
 Reddit: u/EthanIver
 
 Mastodon: @IverCoder@mastodon.online
